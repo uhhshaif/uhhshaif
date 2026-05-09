@@ -33,7 +33,6 @@
 | project | description | stack |
 |--------|-------------|-------|
 | [💳 ATM System](https://github.com/uhhshaif/ATM-System-Java-SQLite) | ATM simulation with core banking operations | Java · SQLite |
-| [💸 Expense Tracker](https://github.com/uhhshaif/expense-tracker-java-spring-boot) | Full-stack expense tracker with CRUD & category tracking | Java · Spring Boot · Bootstrap |
 | [🛡️ ScamBreaker](https://github.com/uhhshaif/scambreaker) | Malaysian scam response coordination platform | TypeScript · Next.js |
 | [🔒 EarnTheFeed](https://github.com/uhhshaif/EarnTheFeed) | Chrome extension that blocks social media until you earn it | JavaScript |
 
